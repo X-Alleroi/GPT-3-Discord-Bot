@@ -11,12 +11,8 @@
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/4H3R3TR0/GPT-3-Discord-Bot/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-    <img src="https://github.com/4H3R3TR0/GPT-3-Discord-Bot/issues" alt="open issues" />
-  </a>
+
+
 </p>
    
 <h4>
@@ -69,9 +65,9 @@
 <!-- Features -->
 ### :dart: Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Speaks multiple languages
+- Create, fix and explain code
+- Able to chat
 
 
 <!-- Env Variables -->
@@ -81,7 +77,7 @@ To run this project, you will need to add the following environment variables to
 
 `API_KEY`
 
-`ANOTHER_API_KEY`
+`Bot token`
 
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
@@ -126,7 +122,7 @@ Go to the project directory
 ## :eyes: Usage
 
 Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
-
+Still working on it!
 
 ```javascript
 import Component from 'my-project'
@@ -139,19 +135,19 @@ function App() {
 <!-- Roadmap -->
 ## :compass: Roadmap
 
-* [x] Todo 1
-* [ ] Todo 2
+* [ ] Add dalle to draw pictures
+* [ ] Implement GPT-2 instead to train bot. (This is wanted to train bots to fit more in)
 
 <!-- FAQ -->
 ## :grey_question: FAQ
 
-- Question 1
+- Does this need any special hardware?
 
-  + Answer 1
+  + This version does not need hardware due to the ai being run on a server by OpenAI
 
-- Question 2
+- How do I make it react to a command?
 
-  + Answer 2
+  + Add for example if message.content.startswith('!'): over the line 38 and set the one under in the if by clicking tab
 
 
 <!-- Contact -->
