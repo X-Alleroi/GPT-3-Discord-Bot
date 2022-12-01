@@ -66,7 +66,7 @@
 <!-- Env Variables -->
 ### :key: Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+To run this project, you will need to add the following environment variables to your main.py file
 
 `API_KEY`
 
@@ -129,7 +129,7 @@ function App() {
 ## :compass: Roadmap
 
 * [ ] Add dalle to draw pictures
-* [ ] Implement GPT-2 instead to train bot. (This is wanted to train bots to fit more in)
+* [ ] Add commands like other usual bots
 
 <!-- FAQ -->
 ## :grey_question: FAQ
@@ -146,10 +146,7 @@ function App() {
 <!-- Contact -->
 ## :handshake: Contact
 
-Discord:Retr0#6153 
-
-Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
-
+Discord:  Retr0#6153 
 
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
@@ -157,6 +154,5 @@ Project Link: [https://github.com/Louis3797/awesome-readme-template](https://git
 Use this section to mention useful resources and libraries that you have used in your projects.
 
  - [Discord.py](https://discordpy.readthedocs.io/)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [OpenAI](openai.com)
+ - [OpenAI](https://openai.com)
  - [Readme Template](https://github.com/othneildrew/Best-README-Template)
