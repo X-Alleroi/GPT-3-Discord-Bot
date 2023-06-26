@@ -128,8 +128,8 @@ function App() {
 <!-- Roadmap -->
 ## :compass: Roadmap
 
-* [ ] Add dalle to draw pictures
-* [ ] Add commands like other usual bots
+* [ ] Implement choices for which ai to use. Example: GPT-4 API
+* [ ] Implement usual discord bot commands
 
 <!-- FAQ -->
 ## :grey_question: FAQ
