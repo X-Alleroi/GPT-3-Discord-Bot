@@ -146,7 +146,7 @@ function App() {
 <!-- Contact -->
 ## :handshake: Contact
 
-Discord:  Retr0#6153 
+ Feel free to use any of the social media linked in the main page of my account :)
 
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
