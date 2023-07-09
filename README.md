@@ -5,7 +5,7 @@
   <h1>GPT-3 Discord bot</h1>
   
   <p>
-    Bot based on Davinci-003 API from OpenAI. Probably not being updated due to the api costing money now
+     Probably not being updated due to the api costing money now
   </p>
   
   
